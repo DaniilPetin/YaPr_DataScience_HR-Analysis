@@ -1,6 +1,6 @@
 # YaPr_DataScience_HR-Analysis
 
-**Основной стек инструментов: Python (pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, Phik, SHAP), Jupyter, CSV, статистический анализ (φ-коэффициент, корреляционный анализ, t-распределение, доверительные интервалы), теория вероятностей, машинное обучение (линейная регрессия, логистическая регрессия, K-ближайших соседей, деревья решений, метод опорных векторов), метрики качества (ROC-AUC, MSE, матрица ошибок), предобработка данных (StandardScaler, MinMaxScaler, OneHotEncoder, OrdinalEncoder, LabelEncoder, SimpleImputer, ColumnTransformer), оптимизация гиперпараметров (RandomizedSearchCV, GridSearchCV, кросс-валидация), отбор признаков (SelectKBest), Pipeline, бейзлайн-модели (DummyClassifier, DummyRegressor).**
+**Основной стек инструментов: Python (pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, Phik, SHAP), Jupyter, CSV, статистический анализ (φ-коэффициент, корреляционный анализ, t-распределение, доверительные интервалы), теория вероятностей, машинное обучение (линейная регрессия, логистическая регрессия, K-ближайших соседей, деревья решений, метод опорных векторов), метрики качества (ROC-AUC, MSE, матрица ошибок), оптимизация гиперпараметров (RandomizedSearchCV, GridSearchCV, кросс-валидация), отбор признаков (SelectKBest), Pipeline, бейзлайн-модели (DummyClassifier, DummyRegressor).**
 
 # Сборный проект №2: HR-аналитика
 
